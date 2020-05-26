@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Test 1 YAYYYYYY!! DOC: TEST 1 VERSION: 1.1.0","title":"Home"},{"location":"#test-1","text":"YAYYYYYY!! DOC: TEST 1 VERSION: 1.1.0","title":"Test 1"}]}
