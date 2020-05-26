@@ -1,0 +1,17 @@
+site_name: Document 1
+repo_url: 'https://github.com/renuanba/doc1.git'
+repo_name: 'renuanba/doc1'
+edit_uri: ''
+
+
+site_url: 'https://renuanba.github.io/mkdocs_all_docs_registry/doc1'
+
+plugins:
+  - search
+  - mkdocs-versioning:
+      version: 1.0.0
+
+nav:
+  - Home: 'index.md'
+  - Version: '../'
+  - Registry: '../../'
